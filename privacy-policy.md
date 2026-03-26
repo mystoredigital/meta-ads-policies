@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This application ("App") is a personal integration tool created by Benjamín Cordero to connect Meta Ads data with development tools. This privacy policy explains how we handle any data accessed through this App.
+This application ("App") is a personal integration tool created by My Store Digital LLC to connect Meta Ads data with development tools. This privacy policy explains how we handle any data accessed through this App.
 
 ## Data Collection and Use
 
@@ -37,5 +37,5 @@ This privacy policy may be updated from time to time. Any changes will be reflec
 
 For any questions regarding this privacy policy, please contact:
 
-**Benjamín Cordero**
-Email: benja@bencorde.com
+**My Store Digital LLC**
+Email: connect@mystoredigital.com

@@ -6,7 +6,7 @@
 
 If you wish to have your data deleted from our application, you can request it by contacting us directly:
 
-**Email:** benja@bencorde.com
+**Email:** connect@mystoredigital.com
 
 ## What Happens When You Request Deletion
 
@@ -26,5 +26,5 @@ Upon receiving a deletion request, we will:
 
 For data deletion requests or questions, please contact:
 
-**Benjamín Cordero**
-Email: benja@bencorde.com
+**My Store Digital LLC**
+Email: connect@mystoredigital.com
